@@ -1,0 +1,2 @@
+id/arin/tokocepat/BuildConfig.java
+ id.arin.tokocepat.BuildConfig
